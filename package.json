@@ -59,7 +59,7 @@
     "git-cz": "^3.0.0",
     "kcd-scripts": "^1.0.0",
     "nock": "^10.0.6",
-    "semantic-release": "^15.13.2"
+    "semantic-release": "^15.13.24"
   },
   "eslintIgnore": [
     "node_modules",
